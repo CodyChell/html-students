@@ -5,3 +5,5 @@ title: "CCIS 1301 HTML"
 exclude:
   - "README.md"
   - "Gemfile"
+
+theme: jekyll-theme-cayman
